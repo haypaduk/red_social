@@ -26,9 +26,9 @@ Crear una red que promueva la comunicación, el aprendizaje colaborativo y la in
 ---
 
 ## 🛠️ Tecnologías que usaremos  
-- 🧬 **Node.js / Express**  
+- 🧬 **Python / JS**  
 - 🗄️ **MySQL / MongoDB**  
-- 🎨 **React / Tailwind CSS**  
+- 🎨 **HTML / CSS**  
 - ☁️ **Render** (para el despliegue)  
 
 ---
